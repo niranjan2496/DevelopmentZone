@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">shoocal.task1</string>
+    <string name="login">Login :-</string>
+    <string name="id">Id:-</string>
+    <string name="Repository_url">Repository Url:-</string>
+    <string name="state">State</string>
+</resources>
